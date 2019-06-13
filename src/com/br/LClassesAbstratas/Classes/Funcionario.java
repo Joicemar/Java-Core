@@ -1,5 +1,6 @@
 package com.br.LClassesAbstratas.Classes;
 
+
 public abstract class Funcionario extends Pessoa{
 
     protected String clt;
