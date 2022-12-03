@@ -8,6 +8,17 @@ public abstract class Pessoa {
 	public String getNome() {
 		return nome;
 	}
+	
+	public void setarAtributos(String nome, int idade, Estado estado) {
+		this.nome = nome;
+		this.idade = idade;
+		this.estado = estado;
+	}
+	public void setarAtributos(String nome, int idade) {
+		this.nome = nome;
+		this.idade = idade;
+	}
+	
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
