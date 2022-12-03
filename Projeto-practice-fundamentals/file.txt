@@ -1,0 +1,40 @@
+Nome: Luiz
+Idade: 32
+Estado: VIP
+
+Nome: Jose
+Idade: 32
+Estado: VIP
+
+Nome: Luiz
+Idade: 32
+Estado: VIP
+
+Nome: Jose
+Idade: 32
+Estado: VIP
+
+Nome: Luiz
+Idade: 32
+Estado: VIP
+
+Nome: Jose
+Idade: 32
+Estado: VIP
+
+Nome: Luiz
+Idade: 32
+Estado: VIP
+
+Nome: Jose
+Idade: 32
+Estado: VIP
+
+Nome: Bruxo
+Idade: 23
+Estado: NO_VIP
+
+Nome: Bruxo
+Idade: 23
+Estado: NO_VIP
+
